@@ -61,7 +61,7 @@ modification of content on the target page, and redirection victims to another m
 - Click on "Go" button or press enter.
 
 ####Screenshot:
-![screenshot3](https://github.com/lajbrc/Deliverable5/blob/master/Screenshots/Vulerability2.png?raw=true)
+![screenshot3](https://github.com/lajbrc/Deliverable5/blob/master/Screenshots/Vulnerability2.png?raw=true)
 
 
 ##Vulnerability 3 - Directory Browsing
